@@ -82,11 +82,11 @@ x5_ner/
 ├── data/                 - Каталог с датасетом  
 │   └── train.json        - Тренировочная выборка
 ├── model/                - Каталог с обученными моделями  
-│   ├── config.json
-│   ├── model.safetensors
-│   ├── special_tokens_map.json
-│   ├── tokenizer_config.json
-│   └── vocab.txt
+│   ├── config.json  
+│   ├── model.safetensors  
+│   ├── special_tokens_map.json  
+│   ├── tokenizer_config.json  
+│   └── vocab.txt  
 ├── requirements.txt      - необходимые библиотеки для проекта  
 └── Презентация.pdf  
 
