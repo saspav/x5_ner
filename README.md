@@ -93,3 +93,5 @@ x5_ner/
 # Обучение модели:
 
 Запустить тетрадку train-on-kaggle.ipynb на https://www.kaggle.com/
+
+Результат: 4-е место
